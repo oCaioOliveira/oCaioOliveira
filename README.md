@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Caio Oliveira 👋
 
-- 🔭 Hoje trabalho como Analista de Testes Jr. na Stefanini e estagio na AiLab.
+- 🔭 Hoje trabalho como Analista de Testes Jr. na Stefanini e sou pesquisador pela AiLab em Inteligencia Artificial.
 - 🌱 Estudando Banco de Dados, Estrutura de Dados, Inteligência Artificial, QA testes, entre outros.
 - 👯 Estou buscando colaborar com o desenvolvimento humano.
 - 😝 Brasileiro
