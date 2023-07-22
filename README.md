@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Caio Oliveira 👋
 
-- 🔭 Hoje trabalho como Desenvolvedor Full-Stack, usando Python (Django) e Angular, também sou pesquisador / desenvolvedor pela AiLab em Inteligencia Artificial.
+- 🔭 Hoje trabalho como Desenvolvedor Full-Stack, usando Python (Django) e Angular.
 - 🌱 Estudando Banco de Dados, Estrutura de Dados, Inteligência Artificial, QA testes, entre outros.
 - 😝 Brasileiro.
 
